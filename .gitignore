@@ -1,5 +1,3 @@
 data/
 *.mat
 *.csv
-
-severson-cycle-life/notebooks/2_Long-vs-Short-Life-Logistic-Regression-Classifier.ipynb
