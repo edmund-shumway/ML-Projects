@@ -2,7 +2,6 @@ data/
 *.mat
 *.csv
 
-vlijmen-aging-matrix/
-*.venv
+vlijmen-aging-matrix/.venv
 
 
